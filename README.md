@@ -1,6 +1,6 @@
 <h1>Concesionaria</h1>
 
-<p>Este proyecto es un sistema de gestión de concesionaria de vehículos. Es un CRUD (Create, Read, Update, Delete) que permite realizar las operaciones básicas de un sistema de gestión.</p>
+<p>Este proyecto es un sistema de gestión de concesionaria de vehículos. Es un CRUD (Create, Read, Update, Delete) que permite realizar las operaciones básicas de un sistema de gestión..</p>
 
 <h2>Funcionalidades</h2>
 
